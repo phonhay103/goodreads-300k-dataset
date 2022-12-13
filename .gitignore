@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#
+# Dataset
 goodreads-300k-dataset
+goodreads-300k-dataset.zip

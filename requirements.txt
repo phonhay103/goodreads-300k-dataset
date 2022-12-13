@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+nltk
+gensim
+streamlit
+jupyterlab
+gdown
+pandas-profiling
