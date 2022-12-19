@@ -1,11 +1,11 @@
 numpy
-scikit-learn
 pandas
-matplotlib
-seaborn
-nltk
+scikit-learn
 gensim
-streamlit
-jupyterlab
-gdown
-pandas-profiling
+# nltk
+# streamlit
+# jupyterlab
+# gdown
+# pandas-profiling
+# matplotlib
+# seaborn

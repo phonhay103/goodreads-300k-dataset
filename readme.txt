@@ -6,5 +6,12 @@ https://drive.google.com/file/d/1GJLByvetYbNofD3kK-0iunYnAYX3MZR4/view?usp=share
 => gdown 1GJLByvetYbNofD3kK-0iunYnAYX3MZR4
 => unzip goodreads-300k-dataset.zip -d goodreads-300k-dataset
 
-count / tf-idf => scikit-learn
-word2vec / glove => nltk / gensim
+count / tf-idf 
+word2vec / glove / fastText
+
+description
+=> text
+=> lowercase, remove noise, embedding
+
+rating_count >= 10000
+

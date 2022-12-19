@@ -131,3 +131,4 @@ dmypy.json
 # Dataset
 goodreads-300k-dataset
 goodreads-300k-dataset.zip
+word2vec*
