@@ -2,10 +2,8 @@ numpy
 pandas
 scikit-learn
 gensim
-# nltk
-# streamlit
-# jupyterlab
-# gdown
-# pandas-profiling
-# matplotlib
-# seaborn
+jupyterlab
+gdown
+pandas-profiling
+matplotlib
+seaborn

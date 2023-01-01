@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # Dataset
-goodreads-300k-dataset
-goodreads-300k-dataset.zip
+goodreads-300k-dataset*
 word2vec*
