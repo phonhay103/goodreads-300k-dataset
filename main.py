@@ -1,11 +1,11 @@
-import pickle
+import joblib
 from gensim.parsing.preprocessing import strip_punctuation, remove_stopwords, strip_non_alphanum
 
 # Load pre-trained
-vectorizer = pickle.load(open('tfidf_vectorizer.abc', 'rb'))
-LR_model = pickle.load(open('LR_1500_model.abc', 'rb'))
-Clf_model = pickle.load(open('LR_classify_model.abc', 'rb'))
-selector = pickle.load(open('selector_1500.abc', 'rb'))
+vectorizer = joblib.load('tfidf_vectorizer.abc')
+LR_model = joblib.load('LR_1500_model.abc')
+Clf_model = joblib.load('LR_classify_model.abc')
+selector = joblib.load('selector_1500.abc')
 
 labels = ['(0, 3.0]', '(3.0, 3.5]', '(3.5, 4.0]', '(4.0, 4.5]', '(4.5, 5.0]']
 

@@ -10,6 +10,7 @@ The project was developed using python 3.9 with the following packages.
 - pandas-profiling
 - matplotlib
 - seaborn
+- joblib
 
 Installation with pip:
 ```bash

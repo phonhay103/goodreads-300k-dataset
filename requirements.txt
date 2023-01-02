@@ -3,7 +3,7 @@ pandas
 scikit-learn
 gensim
 jupyterlab
-gdown
 pandas-profiling
 matplotlib
 seaborn
+joblib
