@@ -7,7 +7,6 @@ The project was developed using python 3.9 with the following packages.
 - scikit-learn
 - gensim
 - jupyterlab
-- gdown
 - pandas-profiling
 - matplotlib
 - seaborn
@@ -19,10 +18,16 @@ pip install -r requirements.txt
 
 Installation with [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html):
 ```bash
-pip install -r requirements.txt
+conda create -n IT4362 --file requirements.txt python=3.9
 ```
 
 ## Getting Started
+If using conda, activate conda environment
+
+```bash
+conda activate IT4362
+```
+
 Inference
 ```bash
 python main.py
