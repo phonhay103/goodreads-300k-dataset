@@ -48,3 +48,12 @@ Run jupyter notebook
 ```bash
 jupyter-lab
 ```
+
+``` console
+.
+├── datasets/ ... Containt training, validation and test datasets
+│   └── goodreads-300k-dataset/
+├── models/ ... Pre-trained model, tokenizer, selector
+├── images/ ... Visualization images
+└── notebooks/ ... Jupyter notebooks for training, evaluation and data visualization
+```
