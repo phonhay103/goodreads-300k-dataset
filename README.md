@@ -1,4 +1,4 @@
-# IT4362
+# goodreads-300k-dataset
 
 ## Pre-requisites
 The project was developed using python 3.9 with the following packages.
