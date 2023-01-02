@@ -1,4 +1,4 @@
-# goodreads-300k-dataset
+# Book rating
 
 ## Pre-requisites
 The project was developed using python 3.9 with the following packages.
